@@ -1,0 +1,30 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "Node Security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibr5500/security.git"
+  },
+  "author": "Ibrahim Ahmat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibr5500/security/issues"
+  },
+  "homepage": "https://github.com/ibr5500/security#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
